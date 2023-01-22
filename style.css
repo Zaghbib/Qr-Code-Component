@@ -1,0 +1,52 @@
+body {
+    background-color: #d6e2f0;
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.qrCard img {
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 250px;
+}
+
+.qrCard {
+    position: relative;
+    margin: 100px auto;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 15px 10px 34px -1px rgba(0,0,0,0.39);
+    -webkit-box-shadow: 15px 10px 34px -1px rgba(0,0,0,0.39);
+    -moz-box-shadow: 15px 10px 34px -1px rgba(0,0,0,0.39);
+}
+
+.card-body {
+    margin: 10px;
+    padding: 15px;
+}
+
+.card-title {
+    margin: 0px 0px 10px 0px;
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+
+.card-text {
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: #7b879d;
+}
+
+.container{
+    text-align: center;
+}
